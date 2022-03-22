@@ -1,0 +1,34 @@
+#!/bin/bash
+
+echo "privet, anal destroyer"
+echo -n 'xo4esh vzlom ///opl/l?'
+read VAR
+if [ $VAR = da ]
+then 
+ echo 'ahal hack was started sucksesful'
+ echo 'procASS is runing...'
+ sleep 1
+ echo '0ooooooooo...'
+ sleep 0.5
+ echo '00oooooooo...'
+ sleep 0.5
+ echo '000ooooooo...'
+ sleep 0.5
+ echo '0000oooooo...'
+ sleep 0.5
+ echo '00000ooooo...'
+ sleep 0.5
+ echo '000000oooo...'
+  sleep 0.5
+ echo '0000000ooo...'
+ sleep 0.5
+ echo '00000000oo...'
+ sleep 0.5
+ echo '000000000o...'
+ sleep 0.5
+ echo '00000000004ko vzlomano'
+fi
+if [ $VAR = net ]
+ then 
+ echo 'Vipisan iz anal destroyerov'
+fi
